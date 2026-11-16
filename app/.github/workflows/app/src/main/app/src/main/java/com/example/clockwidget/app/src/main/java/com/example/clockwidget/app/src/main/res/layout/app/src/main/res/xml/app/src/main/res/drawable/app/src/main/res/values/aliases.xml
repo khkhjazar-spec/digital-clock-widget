@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bg_1" type="drawable">@drawable/bg_0</item>
+    <item name="bg_2" type="drawable">@drawable/bg_0</item>
+    <item name="bg_3" type="drawable">@drawable/bg_0</item>
+    <item name="bg_4" type="drawable">@drawable/bg_0</item>
+    <item name="bg_5" type="drawable">@drawable/bg_0</item>
+</resources>
